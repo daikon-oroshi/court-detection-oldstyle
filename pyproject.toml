@@ -2,7 +2,7 @@
 name = "court_detection"
 version = "0.1.0"
 description = ""
-authors = ["shimada <bubbleandsqueak10@gmail.com>"]
+authors = ["oroshi <oroshinekko@gmail.com>"]
 
 [tool.poetry.dependencies]
 python = "^3.8"
